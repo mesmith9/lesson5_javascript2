@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 16, 2017
 
 ### Student Name:  
-(First and Last Name)
+Mary Smith
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Lesson 5 covers the concepts and use of functions and conditional statemements in Javascript
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://mesmith9.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to use else/if statements to meet various conditions in a function.
+2. I learned how to use do/while and other loops to loop through arrays.
+3. I learned more in-depth how to use index numbers to identify the position of an array element.
 
